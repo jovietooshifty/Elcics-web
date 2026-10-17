@@ -1,0 +1,15 @@
+:root {
+  --elcics-elcics-green: #1D5F2F; /* Logo colour. Headings, primary buttons, links, icons. */
+  --elcics-forest-dark: #144221; /* Hover/pressed states, footer background. */
+  --elcics-leaf-mid: #6C9778; /* Secondary icons, dividers on dark, illustrations. */
+  --elcics-green-mist: #DDE7E0; /* Section backgrounds, cards, tags. */
+  --elcics-green-tint: #F1F5F3; /* Subtle page/section background. */
+  --elcics-solar-gold: #F8BD26; /* Highlights, badges, CTA on dark backgrounds (never as text on white). */
+  --elcics-gold-deep: #8B6504; /* Gold text on white or light backgrounds. */
+  --elcics-charcoal: #33343F; /* Body text, dark sections, header button. */
+  --elcics-slate: #5F6176; /* Secondary text, captions. */
+  --elcics-grey-400: #9293A6; /* Placeholder text, disabled. */
+  --elcics-mist-grey: #C8C9D3; /* Borders, form outlines. */
+  --elcics-off-white: #F7F7F7; /* Alternate section background. */
+  --elcics-white: #FFFFFF; /* Main background. */
+}

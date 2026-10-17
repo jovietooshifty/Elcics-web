@@ -1,0 +1,93 @@
+[
+  {
+    "group": "Primary",
+    "name": "ELCICS Green",
+    "hex": "#1D5F2F",
+    "use": "Logo colour. Headings, primary buttons, links, icons.",
+    "source": "Logo (measured from artwork)"
+  },
+  {
+    "group": "Primary",
+    "name": "Forest Dark",
+    "hex": "#144221",
+    "use": "Hover/pressed states, footer background.",
+    "source": "Derived from ELCICS Green"
+  },
+  {
+    "group": "Primary",
+    "name": "Leaf Mid",
+    "hex": "#6C9778",
+    "use": "Secondary icons, dividers on dark, illustrations.",
+    "source": "Derived from ELCICS Green"
+  },
+  {
+    "group": "Primary",
+    "name": "Green Mist",
+    "hex": "#DDE7E0",
+    "use": "Section backgrounds, cards, tags.",
+    "source": "Derived from ELCICS Green"
+  },
+  {
+    "group": "Primary",
+    "name": "Green Tint",
+    "hex": "#F1F5F3",
+    "use": "Subtle page/section background.",
+    "source": "Derived from ELCICS Green"
+  },
+  {
+    "group": "Accent",
+    "name": "Solar Gold",
+    "hex": "#F8BD26",
+    "use": "Highlights, badges, CTA on dark backgrounds (never as text on white).",
+    "source": "Site theme accent (Wix color_32/44)"
+  },
+  {
+    "group": "Accent",
+    "name": "Gold Deep",
+    "hex": "#8B6504",
+    "use": "Gold text on white or light backgrounds.",
+    "source": "Site theme (Wix color_34)"
+  },
+  {
+    "group": "Neutral",
+    "name": "Charcoal",
+    "hex": "#33343F",
+    "use": "Body text, dark sections, header button.",
+    "source": "Site main text / dark section colour"
+  },
+  {
+    "group": "Neutral",
+    "name": "Slate",
+    "hex": "#5F6176",
+    "use": "Secondary text, captions.",
+    "source": "Site theme (Wix color_14)"
+  },
+  {
+    "group": "Neutral",
+    "name": "Grey 400",
+    "hex": "#9293A6",
+    "use": "Placeholder text, disabled.",
+    "source": "Site theme (Wix color_13)"
+  },
+  {
+    "group": "Neutral",
+    "name": "Mist Grey",
+    "hex": "#C8C9D3",
+    "use": "Borders, form outlines.",
+    "source": "Site theme / Services section bg"
+  },
+  {
+    "group": "Neutral",
+    "name": "Off-White",
+    "hex": "#F7F7F7",
+    "use": "Alternate section background.",
+    "source": "Site section background"
+  },
+  {
+    "group": "Neutral",
+    "name": "White",
+    "hex": "#FFFFFF",
+    "use": "Main background.",
+    "source": "Site background"
+  }
+]
