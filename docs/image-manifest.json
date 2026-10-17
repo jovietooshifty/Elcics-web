@@ -1,0 +1,892 @@
+[
+{
+"code": "SITE-01",
+"folder": "1vjkAGakAEJD5DiR3ccPjBm-_VQyUuxzN",
+"folderKey": "site",
+"file": "SITE-01_logo.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_2cfead86d3884f8b94d2993af6fb0bf0~mv2.jpg",
+"used": "All pages > Header (top-left logo)",
+"alt": "Elcics Ltd. SOLAR",
+"note": "Original file is tiny (~5 KB). Ask client for vector/high-res logo."
+},
+{
+"code": "HOME-01",
+"folder": "1lYEspmdUOsdXxoMuj7f9bnxWAlJHx_d3",
+"folderKey": "home",
+"file": "HOME-01_hero-background.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_1e84f3080be2404bb9c5302a3213b079~mv2_d_4032_3024_s_4_2.jpg",
+"used": "Home > Hero banner (\"Premium Solar & Battery Solutions...\")",
+"alt": "20170709_161808.jpg",
+"note": "Photo from 2017; alt text is a camera filename."
+},
+{
+"code": "HOME-02",
+"folder": "1lYEspmdUOsdXxoMuj7f9bnxWAlJHx_d3",
+"folderKey": "home",
+"file": "HOME-02_studer-training-kapok-2018.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_303abad019b043528c8bf0e22c2963b2~mv2.jpg",
+"used": "Home > About Us / Technical Training & Industry Development",
+"alt": "ELCICS TRAINING _edited.jpg",
+"note": "Studer Innotec training, Kapok Hotel, 2018."
+},
+{
+"code": "HOME-03",
+"folder": "1lYEspmdUOsdXxoMuj7f9bnxWAlJHx_d3",
+"folderKey": "home",
+"file": "HOME-03_featured-projects-background-STOCK.jpg",
+"url": "https://static.wixstatic.com/media/nsplsh_4471705077414333515659~mv2_d_5184_3888_s_4_2.jpg",
+"used": "Home > Featured Projects (section background)",
+"alt": "Image by Possessed Photography",
+"note": "STOCK (Unsplash) - not an ELCICS project. Do not reuse as project photo."
+},
+{
+"code": "HOME-04",
+"folder": "1lYEspmdUOsdXxoMuj7f9bnxWAlJHx_d3",
+"folderKey": "home",
+"file": "HOME-04_8kw-offgrid-matura-guest-house.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_42fdb66778d84ee485f45d5142663073~mv2.jpg",
+"used": "Home > Featured Projects: \"8kW off-grid solar PV system, Matura\"; Services > Selected installations: \"Completed Residential Project\"",
+"alt": "ELCICS LTD. SOLAR OFFGRID INSTALLATION",
+"note": "Used on 2 pages."
+},
+{
+"code": "HOME-05",
+"folder": "1lYEspmdUOsdXxoMuj7f9bnxWAlJHx_d3",
+"folderKey": "home",
+"file": "HOME-05_8kw-inverter-20kwh-lithium-matura.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_c477d1bc64024ababc58afaccfd915f1~mv2.jpg",
+"used": "Home > Featured Projects: \"8kW solar inverter & 20kWh lithium system, Matura\"; Services > Project Gallery",
+"alt": "ELCICS LTD. 8KW SOLAR SYSTEM OFFGRID INSTALL IN MATURA TRINIDAD",
+"note": "Used on 2 pages."
+},
+{
+"code": "HOME-06",
+"folder": "1lYEspmdUOsdXxoMuj7f9bnxWAlJHx_d3",
+"folderKey": "home",
+"file": "HOME-06_12kw-solark-whole-home-backup-valencia.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_f1dd16c936884aab83bccd2cde9ba46c~mv2.jpg",
+"used": "Home > Featured Projects: \"12kW whole home backup system, Valencia\"",
+"alt": "ELCICS LTD. SOL ARK 12KW SOLAR INSTALLATION",
+"note": ""
+},
+{
+"code": "HOME-07",
+"folder": "1lYEspmdUOsdXxoMuj7f9bnxWAlJHx_d3",
+"folderKey": "home",
+"file": "HOME-07_25kw-solar-array-cumuto.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_38549b3cc7e44a6c98fd2afc20720a2b~mv2.jpeg",
+"used": "Home > Featured Projects: \"25kW solar array, Cumuto\"; Services > Project Gallery",
+"alt": "24 KWP SOLAR ARRAY INSTALLED BY ELCICS LTD CUMUTO TRINIDAD",
+"note": "Alt says 24 kWp, caption says 25kW - confirm."
+},
+{
+"code": "HOME-08",
+"folder": "1lYEspmdUOsdXxoMuj7f9bnxWAlJHx_d3",
+"folderKey": "home",
+"file": "HOME-08_25kw-solark-offgrid-residence-cumuto.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_d04c3a3554c849058a6bd2ae1c20f186~mv2.jpeg",
+"used": "Home > Featured Projects: \"25kW residential off-grid system, Cumuto\"; Services > \"Battery Backup Systems\" card; Services > Project Gallery",
+"alt": "ELCICS LTD. SOL ARK 24KW SOLAR INSTALLATION (CUMUTO TRINIDAD)",
+"note": "Used on 2 pages (3 places). Alt says 24KW, caption 25kW."
+},
+{
+"code": "HOME-09",
+"folder": "1lYEspmdUOsdXxoMuj7f9bnxWAlJHx_d3",
+"folderKey": "home",
+"file": "HOME-09_3kw-townhouse-backup-innocent-manor-chaguanas.png",
+"url": "https://static.wixstatic.com/media/c183e9_20fed1ed716a4f58be75a81e52797d02~mv2.png",
+"used": "Home > Featured Projects: \"3kW townhouse backup systems, Chaguanas\"",
+"alt": "Innocent Manor Town House Solar Backup system supplied and installed by ELCICS LTD.",
+"note": ""
+},
+{
+"code": "HOME-10",
+"folder": "1lYEspmdUOsdXxoMuj7f9bnxWAlJHx_d3",
+"folderKey": "home",
+"file": "HOME-10_75kw-solar-farm-st-georges-grenada.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_57f841a13bc447ce883a86b1438f9b7f~mv2.jpg",
+"used": "Home > Featured Projects in Grenada: \"75 KW Solar Farm, St. George's\"; Services > Project Gallery",
+"alt": "IMG-20211203-WA0014.jpg",
+"note": "WhatsApp image (Dec 2021) - low resolution (1600px)."
+},
+{
+"code": "PROD-01",
+"folder": "1Jng65TlCn4tMJIIIhZ2h2UVQSxUn3YUM",
+"folderKey": "prod",
+"file": "PROD-01_products-intro-image.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_4a5c257fb9ab4cb399b4ac96e3d7de48~mv2.jpg",
+"used": "Products > Intro (\"Authorized distributor and supplier...\")",
+"alt": "(none)",
+"note": "No alt text."
+},
+{
+"code": "PROD-02",
+"folder": "1Jng65TlCn4tMJIIIhZ2h2UVQSxUn3YUM",
+"folderKey": "prod",
+"file": "PROD-02_inverter-studer-xtm.png",
+"url": "https://static.wixstatic.com/media/c183e9_22e3d5a05b2f4a0b961b1113d9286cb7~mv2.png",
+"used": "Products > Inverters: Studer XTM",
+"alt": "inversor-studer-xtm-48-4000-xtender",
+"note": "Manufacturer product image."
+},
+{
+"code": "PROD-03",
+"folder": "1Jng65TlCn4tMJIIIhZ2h2UVQSxUn3YUM",
+"folderKey": "prod",
+"file": "PROD-03_inverter-huawei-sun2000.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_1cfd011eb8c24600acad462e4add349c~mv2.jpg",
+"used": "Products > Inverters: Huawei",
+"alt": "SUN2000-100KTL-M1",
+"note": "Manufacturer product image."
+},
+{
+"code": "PROD-04",
+"folder": "1Jng65TlCn4tMJIIIhZ2h2UVQSxUn3YUM",
+"folderKey": "prod",
+"file": "PROD-04_inverter-goodwe.png",
+"url": "https://static.wixstatic.com/media/c183e9_dd9cc828424941cd8abdd5d89d2f3045~mv2.png",
+"used": "Products > Inverters: GoodWe",
+"alt": "ESLD-1_edited_edited.png",
+"note": "Manufacturer product image."
+},
+{
+"code": "PROD-05",
+"folder": "1Jng65TlCn4tMJIIIhZ2h2UVQSxUn3YUM",
+"folderKey": "prod",
+"file": "PROD-05_inverter-deye-8kw-hybrid.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_2577bea2a74443c899e7b1a19f953bfd~mv2.jpg",
+"used": "Products > Inverters: Deye",
+"alt": "Deye-8KW-Hybrid-Inverter.jpg",
+"note": "Manufacturer product image."
+},
+{
+"code": "PROD-06",
+"folder": "1Jng65TlCn4tMJIIIhZ2h2UVQSxUn3YUM",
+"folderKey": "prod",
+"file": "PROD-06_battery-huawei-luna2000.png",
+"url": "https://static.wixstatic.com/media/c183e9_b0f65789ac6b4e5c82d9905f2b7fb0b3~mv2.png",
+"used": "Products > Battery Energy Storage (BESS): Huawei",
+"alt": "luna2000-5-10-15-s0.png",
+"note": "Manufacturer product image."
+},
+{
+"code": "PROD-07",
+"folder": "1Jng65TlCn4tMJIIIhZ2h2UVQSxUn3YUM",
+"folderKey": "prod",
+"file": "PROD-07_battery-goodwe.webp",
+"url": "https://static.wixstatic.com/media/c183e9_0fbf9caaea5147cdb0c899c848972368~mv2.webp",
+"used": "Products > BESS: GoodWe",
+"alt": "goodwe_battery.webp",
+"note": "Manufacturer product image."
+},
+{
+"code": "PROD-08",
+"folder": "1Jng65TlCn4tMJIIIhZ2h2UVQSxUn3YUM",
+"folderKey": "prod",
+"file": "PROD-08_battery-deye.webp",
+"url": "https://static.wixstatic.com/media/c183e9_3b5d176299f64749a0a1325c66bbcdcd~mv2.webp",
+"used": "Products > BESS: Deye",
+"alt": "(long filename)",
+"note": "Manufacturer product image."
+},
+{
+"code": "PROD-09",
+"folder": "1Jng65TlCn4tMJIIIhZ2h2UVQSxUn3YUM",
+"folderKey": "prod",
+"file": "PROD-09_battery-pytes.webp",
+"url": "https://static.wixstatic.com/media/c183e9_bf638a819fbe4572b52e7efc53cbc7ab~mv2.webp",
+"used": "Products > BESS: Pytes",
+"alt": "23101110491A56_1024x.webp",
+"note": "Manufacturer product image."
+},
+{
+"code": "PROD-10",
+"folder": "1Jng65TlCn4tMJIIIhZ2h2UVQSxUn3YUM",
+"folderKey": "prod",
+"file": "PROD-10_elcics-solar-water-heater.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_8f44f08aa0ab457e874ead0fd4f9e9b7~mv2.jpg",
+"used": "Products > Solar Water Heater: ELCICS Solar Water Heater",
+"alt": "7e0cd06c-...JPG",
+"note": "Own product photo."
+},
+{
+"code": "PROD-11",
+"folder": "1Jng65TlCn4tMJIIIhZ2h2UVQSxUn3YUM",
+"folderKey": "prod",
+"file": "PROD-11_ev-charger-goodwe-hca.webp",
+"url": "https://static.wixstatic.com/media/c183e9_89802a94671948b69ead5577cb1142ee~mv2.webp",
+"used": "Products > EV Charger: GoodWe EV Charger",
+"alt": "goodwe-hca-series-single-phase-ev-charger",
+"note": "Manufacturer product image."
+},
+{
+"code": "SERV-01",
+"folder": "1LfQV0QV0_RrHY3VRhwV1HoL-kCy5aJG4",
+"folderKey": "serv",
+"file": "SERV-01_services-hero-STOCK.jpeg",
+"url": "https://static.wixstatic.com/media/11062b_93d11cfcc0274fbf9508be974463425e~mv2.jpeg",
+"used": "Services > Hero (\"OUR SERVICES - We Have the Right Solution for You\")",
+"alt": "Solar Panels Technicians",
+"note": "STOCK (Wix media library) - not ELCICS staff."
+},
+{
+"code": "SERV-02",
+"folder": "1LfQV0QV0_RrHY3VRhwV1HoL-kCy5aJG4",
+"folderKey": "serv",
+"file": "SERV-02_card-residential-solar-systems.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_f343e5692f414cd99fef38ba4cbec288~mv2.jpg",
+"used": "Services > \"Residential Solar Systems\" card; Services > Project Gallery",
+"alt": "IMG_0051_edited.jpg",
+"note": "Used twice on Services."
+},
+{
+"code": "SERV-03",
+"folder": "1LfQV0QV0_RrHY3VRhwV1HoL-kCy5aJG4",
+"folderKey": "serv",
+"file": "SERV-03_card-solar-water-heaters.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_78cdfcdf70f44fc8a76b9db2e2d0eb68~mv2.jpg",
+"used": "Services > \"Solar Water Heaters\" card",
+"alt": "(none)",
+"note": ""
+},
+{
+"code": "SERV-04",
+"folder": "1LfQV0QV0_RrHY3VRhwV1HoL-kCy5aJG4",
+"folderKey": "serv",
+"file": "SERV-04_solar-farm-installation.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_bab020d0cd8943c793b5f2df38b1b8a5~mv2.jpg",
+"used": "Services > Selected installations: \"Solar Farm Installation - Utility-scale solar project\"",
+"alt": "ELCICS CU solar presentation.jpg",
+"note": "Project name/location not stated."
+},
+{
+"code": "SERV-05",
+"folder": "1LfQV0QV0_RrHY3VRhwV1HoL-kCy5aJG4",
+"folderKey": "serv",
+"file": "SERV-05_rooftop-solar-installation-in-progress.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_337c7b3758db4d91b95739e636b13ab1~mv2.jpg",
+"used": "Services > Selected installations: \"Rooftop Solar Installation\"; Services > Project Gallery",
+"alt": "IMG-0109.JPG",
+"note": "Used twice on Services."
+},
+{
+"code": "GAL-01",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-01_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_140cd5dd4aac4fdc91e283d4b4ccbc20~mv2.jpg",
+"used": "Services > Project Gallery (photo 1 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-02",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-02_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_337c7b3758db4d91b95739e636b13ab1~mv2.jpg",
+"used": "Services > Project Gallery (photo 2 of 52)",
+"alt": "(none)",
+"note": "Same image as SERV-05. No caption, location or system size."
+},
+{
+"code": "GAL-03",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-03_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_c477d1bc64024ababc58afaccfd915f1~mv2.jpg",
+"used": "Services > Project Gallery (photo 3 of 52)",
+"alt": "(none)",
+"note": "Same image as HOME-05. No caption, location or system size."
+},
+{
+"code": "GAL-04",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-04_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_ca6d1d2b3dd042c19e678030ff5b78ce~mv2.jpg",
+"used": "Services > Project Gallery (photo 4 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-05",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-05_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_4da18c21ceef4f4e819799720474aba3~mv2.jpeg",
+"used": "Services > Project Gallery (photo 5 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-06",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-06_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_11c8dc87c2d343db97c1b7fa0b595836~mv2.jpeg",
+"used": "Services > Project Gallery (photo 6 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-07",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-07_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_79f7067408d74ed08cd38162a6f4ed0e~mv2.jpg",
+"used": "Services > Project Gallery (photo 7 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-08",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-08_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_57f841a13bc447ce883a86b1438f9b7f~mv2.jpg",
+"used": "Services > Project Gallery (photo 8 of 52)",
+"alt": "(none)",
+"note": "Same image as HOME-10. No caption, location or system size."
+},
+{
+"code": "GAL-09",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-09_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_ab9b147faba041d884cc4683513b342a~mv2.jpg",
+"used": "Services > Project Gallery (photo 9 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-10",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-10_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_04a35e02dfe64462a9248749b5e4db6a~mv2.jpg",
+"used": "Services > Project Gallery (photo 10 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-11",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-11_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_d04c3a3554c849058a6bd2ae1c20f186~mv2.jpeg",
+"used": "Services > Project Gallery (photo 11 of 52)",
+"alt": "(none)",
+"note": "Same image as HOME-08. No caption, location or system size."
+},
+{
+"code": "GAL-12",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-12_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_8bc3ec9faecd417da71bbca36db5fb0c~mv2.jpg",
+"used": "Services > Project Gallery (photo 12 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-13",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-13_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_54f3e08946fd4cbaa73e77b3a1c159f4~mv2.jpg",
+"used": "Services > Project Gallery (photo 13 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-14",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-14_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_382f7fecca754fd68385dc5423ec3527~mv2.jpg",
+"used": "Services > Project Gallery (photo 14 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-15",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-15_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_a00c0b687c1e4e4fb7c5df069c0d2d41~mv2.jpg",
+"used": "Services > Project Gallery (photo 15 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-16",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-16_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_1326acc3db604088b821c26568e0b4a9~mv2.jpg",
+"used": "Services > Project Gallery (photo 16 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-17",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-17_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_c66465ba6e044e5cb0214d33ce68a47d~mv2.jpeg",
+"used": "Services > Project Gallery (photo 17 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-18",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-18_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_5fd4c5da07a14068acd8bc13b5a65694~mv2.jpg",
+"used": "Services > Project Gallery (photo 18 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-19",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-19_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_38549b3cc7e44a6c98fd2afc20720a2b~mv2.jpeg",
+"used": "Services > Project Gallery (photo 19 of 52)",
+"alt": "(none)",
+"note": "Same image as HOME-07. No caption, location or system size."
+},
+{
+"code": "GAL-20",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-20_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_ded672b7f8e7416a94d548a4734d57b8~mv2.jpg",
+"used": "Services > Project Gallery (photo 20 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-21",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-21_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_2f3ebc45bbb14b03af6d3cb1ed938bcc~mv2.jpg",
+"used": "Services > Project Gallery (photo 21 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-22",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-22_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_25d9571bd7ad47cba60c271845f3ddb0~mv2.jpg",
+"used": "Services > Project Gallery (photo 22 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-23",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-23_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_f343e5692f414cd99fef38ba4cbec288~mv2.jpg",
+"used": "Services > Project Gallery (photo 23 of 52)",
+"alt": "(none)",
+"note": "Same image as SERV-02. No caption, location or system size."
+},
+{
+"code": "GAL-24",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-24_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_99477e074dd74dce8cc11fe15816957d~mv2.jpg",
+"used": "Services > Project Gallery (photo 24 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-25",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-25_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_d176d915de68485281b31eae527431b5~mv2.jpg",
+"used": "Services > Project Gallery (photo 25 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-26",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-26_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_125d262cd62148e58d4301cd2b8ef1a1~mv2.jpg",
+"used": "Services > Project Gallery (photo 26 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-27",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-27_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_c521a5322fe04a7dbc0fd05245069d80~mv2.jpg",
+"used": "Services > Project Gallery (photo 27 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-28",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-28_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_17b8c4ee5ca146e682ee0b458bc94fd1~mv2.jpg",
+"used": "Services > Project Gallery (photo 28 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-29",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-29_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_bdcdb20e8e224b66a5edefe22d2b682e~mv2.jpg",
+"used": "Services > Project Gallery (photo 29 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-30",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-30_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_6051b96bcf2b4966a4925ac12045dde1~mv2.jpg",
+"used": "Services > Project Gallery (photo 30 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-31",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-31_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_74f55922cff44ed5b1b852271c586f31~mv2.jpg",
+"used": "Services > Project Gallery (photo 31 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-32",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-32_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_c42ada4f7e2e4df8b7741e8cec87495f~mv2.jpg",
+"used": "Services > Project Gallery (photo 32 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-33",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-33_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_60e314f251ae4a89ba99eaf0099a73c8~mv2.jpeg",
+"used": "Services > Project Gallery (photo 33 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-34",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-34_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_d4fc7c42b8f94b42b01ad14dabf1cb5c~mv2.jpeg",
+"used": "Services > Project Gallery (photo 34 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-35",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-35_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_9cb4e1ac761a482b808de8fc34d84c8f~mv2.jpg",
+"used": "Services > Project Gallery (photo 35 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-36",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-36_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_b83ba53e46e9421ea5967e73b7df52b3~mv2.jpg",
+"used": "Services > Project Gallery (photo 36 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-37",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-37_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_01a0efbc2bf546f1b9071940a5525787~mv2.jpg",
+"used": "Services > Project Gallery (photo 37 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-38",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-38_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_b6204600e3a645638ed179c8c5a808e1~mv2.jpeg",
+"used": "Services > Project Gallery (photo 38 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-39",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-39_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_3c62ccf997a74a858096035a7b547101~mv2.jpg",
+"used": "Services > Project Gallery (photo 39 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-40",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-40_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_95acfdf73f924f80882c76aa68f6838c~mv2.jpg",
+"used": "Services > Project Gallery (photo 40 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-41",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-41_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_118bd616d21b44e29a76209b04ab8bf0~mv2.jpeg",
+"used": "Services > Project Gallery (photo 41 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-42",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-42_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_650df38ef2a54f1aa9c3420bf8293823~mv2.jpg",
+"used": "Services > Project Gallery (photo 42 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-43",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-43_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_3ea26ed6c16f4f3a9b6909b325aa8e18~mv2.jpg",
+"used": "Services > Project Gallery (photo 43 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-44",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-44_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_37bbccc1a95e413aa4998301b2cf4912~mv2.jpg",
+"used": "Services > Project Gallery (photo 44 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-45",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-45_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_f3ca2dbbff9f45e7b313959f5fab05ba~mv2.jpg",
+"used": "Services > Project Gallery (photo 45 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-46",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-46_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_f089ebb2db6e4294a4876d26c3f9bb0d~mv2.jpg",
+"used": "Services > Project Gallery (photo 46 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-47",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-47_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_24f39487bbb14e47a4e8f102e2865cb8~mv2.jpg",
+"used": "Services > Project Gallery (photo 47 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-48",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-48_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_49b1c039bf5b4960a33c10907e6b3f35~mv2.jpg",
+"used": "Services > Project Gallery (photo 48 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-49",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-49_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_be8c4b1d56a1469087a76780de1ac6f0~mv2.jpeg",
+"used": "Services > Project Gallery (photo 49 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-50",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-50_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_dc7583cd903c46438d0b38efe52f13c7~mv2.jpeg",
+"used": "Services > Project Gallery (photo 50 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-51",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-51_project-gallery.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_8902a34ce430475ea6003a79a5ce8195~mv2.jpg",
+"used": "Services > Project Gallery (photo 51 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "GAL-52",
+"folder": "10LPnYJLKGM05uW0s17YJXH_mQtgqdket",
+"folderKey": "gal",
+"file": "GAL-52_project-gallery.jpeg",
+"url": "https://static.wixstatic.com/media/c183e9_86eb19b7932342ec8b2159270ad19a91~mv2.jpeg",
+"used": "Services > Project Gallery (photo 52 of 52)",
+"alt": "(none)",
+"note": "No caption, location or system size."
+},
+{
+"code": "CERT-01",
+"folder": "1RPuiDd6aLJU1ullXpUhkbfQ2p1fmJ6Gk",
+"folderKey": "cert",
+"file": "CERT-01_nabcep-pv-system-inspector-badge.png",
+"url": "https://static.wixstatic.com/media/c183e9_9ee87d7e18814bc79337633692c2e760~mv2.png",
+"used": "Certifications > Junior Goodluck credentials",
+"alt": "Nabcep-board-certified-pv-system-inspector",
+"note": ""
+},
+{
+"code": "CERT-02",
+"folder": "1RPuiDd6aLJU1ullXpUhkbfQ2p1fmJ6Gk",
+"folderKey": "cert",
+"file": "CERT-02_nabcep-pv-associate-badge.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_2c941744dd9644b4a11cb41f09c95eef~mv2.jpg",
+"used": "Certifications > Junior Goodluck credentials",
+"alt": "PVA Certified",
+"note": ""
+},
+{
+"code": "CERT-03",
+"folder": "1RPuiDd6aLJU1ullXpUhkbfQ2p1fmJ6Gk",
+"folderKey": "cert",
+"file": "CERT-03_technician-wigton-wind-farm.png",
+"url": "https://static.wixstatic.com/media/c183e9_4df80cdbca484e459d2e34f864a3820a~mv2.png",
+"used": "Certifications > Leadership section photo",
+"alt": "Wigton Wind farm Certified technician installing solar panel",
+"note": "No headshots of either co-founder."
+},
+{
+"code": "VID-01",
+"folder": "1d96z6NrynmIoL_aMwTlvuc6SeBF4-sL3",
+"folderKey": "vid",
+"file": "VID-01_video-thumb-tecu-eco-mobility-energy-expo.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_ec38c7393157455b809eba8b3238be23f002.jpg",
+"used": "Videos > \"TECU Eco Mobility & Energy Expo\"",
+"alt": "TECU Eco Mobility & Energy Expo",
+"note": "ELCICS-hosted video thumbnail."
+},
+{
+"code": "VID-02",
+"folder": "1d96z6NrynmIoL_aMwTlvuc6SeBF4-sL3",
+"folderKey": "vid",
+"file": "VID-02_video-thumb-kobani-kawana-offgrid-cottage.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_ac8fe32240374f70ba4fac84955f79b1f002.jpg",
+"used": "Videos > \"KOBANI KAWANA OFFGRID COTTAGE\"",
+"alt": "KOBANI KAWANA OFFGRID COTTAGE",
+"note": "ELCICS-hosted video thumbnail."
+},
+{
+"code": "VID-03",
+"folder": "1d96z6NrynmIoL_aMwTlvuc6SeBF4-sL3",
+"folderKey": "vid",
+"file": "VID-03_video-thumb-agri-expo.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_ea05bafd259647c7b791cb94319145e1f002.jpg",
+"used": "Videos > \"ELCICS AGRI EXPO VIDEO\"",
+"alt": "ELCICS AGRI EXPO VIDEO",
+"note": "ELCICS-hosted video thumbnail."
+},
+{
+"code": "VID-04",
+"folder": "1d96z6NrynmIoL_aMwTlvuc6SeBF4-sL3",
+"folderKey": "vid",
+"file": "VID-04_video-thumb-tiktok.jpg",
+"url": "https://static.wixstatic.com/media/c183e9_916b8d9453614c648fc3569147abb1ccf002.jpg",
+"used": "Videos > \"ELCICS Tik Tok\"",
+"alt": "ELCICS Tik Tok",
+"note": "ELCICS-hosted video thumbnail."
+},
+{
+"code": "BLOG-01",
+"folder": "122G9AFOQy21B3jUfJVhaJH1BKSOYWQhO",
+"folderKey": "blog",
+"file": "BLOG-01_solar-panels-field-GENERIC.png",
+"url": "https://static.wixstatic.com/media/c183e9_e8848633396d4d4cba022bb8f83a1e67~mv2.png",
+"used": "Blog list + post \"Transforming the Future with Renewable Energy\" (cover + 1st image)",
+"alt": "High angle view of solar panels on a field",
+"note": "Generic/AI-style image, not an ELCICS project."
+},
+{
+"code": "BLOG-02",
+"folder": "122G9AFOQy21B3jUfJVhaJH1BKSOYWQhO",
+"folderKey": "blog",
+"file": "BLOG-02_hydroelectric-dam-GENERIC.png",
+"url": "https://static.wixstatic.com/media/c183e9_3994d36fb645479f821524dba5454880~mv2.png",
+"used": "Blog post > \"The Future of Clean Energy\"",
+"alt": "Close-up view of a hydroelectric dam",
+"note": "Generic."
+},
+{
+"code": "BLOG-03",
+"folder": "122G9AFOQy21B3jUfJVhaJH1BKSOYWQhO",
+"folderKey": "blog",
+"file": "BLOG-03_wind-turbines-GENERIC.png",
+"url": "https://static.wixstatic.com/media/c183e9_5c31e5bdb2544960a581002bf73cddac~mv2.png",
+"used": "Blog post > \"What are the 7 Types...\"",
+"alt": "Eye-level view of wind turbines on a hillside",
+"note": "Generic."
+}
+]
